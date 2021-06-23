@@ -1,5 +1,5 @@
 {
-    "name": "pycho-neon/idiorm",
+    "name": "psycho-neon/idiorm",
     "type": "library",
     "description": "A lightweight nearly-zero-configuration object-relational mapper and fluent query builder for PHP5",
     "keywords": ["idiorm", "orm", "query builder"],
@@ -26,6 +26,12 @@
             "email": "me@durhamhale.com",
             "homepage": "http://durhamhale.com",
             "role": "Maintainer"
+        },
+        {
+            "name": "Psycho Neon",
+            "email": "support@xkromui.com",
+            "homepage": "http://",
+            "role": "Fork-Maintainer"
         }
     ],
     "scripts": {
